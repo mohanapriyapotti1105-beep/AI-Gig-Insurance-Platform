@@ -1,4 +1,4 @@
-# AI-Powered Insurance for Gig Workers
+# AI-Powered Parametric Insurance for Gig Workers
 
 ## 🧠 Problem
 Gig workers lose income due to external disruptions such as weather, pollution, and traffic conditions. At the same time, fraudsters exploit GPS spoofing to create fake claims and drain the system.
