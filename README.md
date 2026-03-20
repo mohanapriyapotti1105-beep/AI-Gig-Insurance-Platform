@@ -61,3 +61,14 @@ We ensure genuine workers are not unfairly penalized:
 
 ## 🎯 Conclusion
 Our platform replaces simple GPS-based validation with a multi-layer AI-driven trust system. It ensures secure, fair, and automated income protection for gig workers while effectively preventing fraud and coordinated attacks.
+
+---
+
+## By,
+## 👥 Team Name
+BrainBytes
+
+## 👩‍💻 Team Members
+- Minhaj Banu Mohammad (Team Leader)
+- Potti Mohana Priya
+- Tadiparthi Nanditha Reddy
