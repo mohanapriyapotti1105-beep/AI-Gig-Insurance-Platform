@@ -369,7 +369,7 @@ import requests
 import random
 from datetime import datetime, timedelta
 from functools import wraps
-from flask_sqlalchemy import SQLAlchemy
+# from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
 from werkzeug.security import generate_password_hash, check_password_hash
 import json
@@ -387,7 +387,7 @@ app.permanent_session_lifetime = timedelta(hours=24)
 
 # Initialize database
 db.init_app(app)
-db = SQLAlchemy()
+# db = SQLAlchemy()
 # 🔑 API Keys
 OPENWEATHER_API_KEY = "f7b4a3d88337ad2894d3aefc138bf5d0"
 
