@@ -102,7 +102,8 @@ import random
 
 app = Flask(__name__)
 
-API_KEY = "f7b4a3d88337ad2894d3aefc138bf5d0"
+import os
+API_KEY = os.getenv("API_KEY")
 
 # 🌦️ Get Weather Data
 def get_weather(city, country):
