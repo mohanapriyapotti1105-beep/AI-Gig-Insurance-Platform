@@ -64,7 +64,117 @@ Our platform replaces simple GPS-based validation with a multi-layer AI-driven t
 
 ---
 
-## By,
+# 🚀 Phase 2 Enhancements (Advanced Prototype)
+
+Building on our Phase 1 concept, we transformed our idea into a **working, interactive prototype** with enhanced intelligence, usability, and realism.
+
+---
+
+## 💻 Live System Prototype
+We developed a **web-based application using Flask** that simulates:
+- Real-time claim evaluation
+- AI-based trust scoring
+- Dynamic decision-making engine
+
+---
+
+## 🔐 User Authentication System
+- 🔑 Login system  
+- 📝 Signup functionality  
+- 🔒 Session-based access control  
+- 🚪 Logout mechanism  
+
+---
+
+## 🌍 Real-Time Data Integration
+
+### 🌦 Weather API Integration
+- Integrated OpenWeather API
+- Detects live weather conditions (Rain, Clouds, etc.)
+- Triggers claim decisions based on disruption
+
+### 🚗 Traffic Simulation Engine
+- Simulates traffic levels: Low / Moderate / Heavy
+- Incorporated into trust scoring
+- Heavy traffic can trigger valid claims
+
+---
+
+## 🧠 AI Trust Scoring Engine (Improved)
+- Activity level analysis  
+- GPS consistency validation  
+- Anomaly detection  
+- Traffic-based scoring  
+
+---
+
+## 🎯 Smart Decision Engine (Upgraded)
+
+| Factor | Impact |
+|------|--------|
+| Weather disruption | Strong trigger |
+| Traffic congestion | Secondary trigger |
+| Trust score | Core validation |
+
+### Decision Outcomes:
+- ✅ Approved → High trust + disruption  
+- ⚠️ Under Review → Medium trust  
+- ❌ Rejected → Low trust / anomaly  
+
+---
+
+## 🎨 Enhanced User Interface
+- Modern gradient design  
+- Card-based result display  
+- Color-coded trust score  
+- Country + City selection  
+- Clean login/signup pages  
+
+---
+
+## 🔍 Transparency & Explainability
+Each decision includes:
+- Trust score breakdown  
+- Activity level  
+- GPS variation  
+- Anomaly detection  
+- Traffic condition  
+
+---
+
+## 🧪 Simulation-Based Approach
+- Simulated behavioral data  
+- Controlled randomness  
+- Realistic system behavior  
+
+---
+
+## 🚀 What Makes Our Solution Unique
+- Functional working prototype  
+- Multi-factor AI decision system  
+- Focus on fairness + fraud prevention  
+- Real-world scalable design  
+
+---
+
+## 🔮 Future Scope
+- Real GPS tracking integration  
+- Blockchain-based claim validation  
+- ML models trained on real datasets  
+- Mobile app development  
+- Integration with gig platforms  
+
+---
+
+## 🎤 Demo Highlights
+- User logs in → submits claim  
+- System fetches weather + simulates traffic  
+- AI calculates trust score  
+- Decision generated instantly  
+- Transparent breakdown shown  
+
+---
+
 ## 👥 Team Name
 BrainBytes
 
